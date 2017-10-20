@@ -2,11 +2,13 @@
 
 The standard 52-card pack is used.
 
-Object of the Game
+Each player is given a set amount of chips to begin the game.
+
+1.Object of the Game
 
 The goal of each player is to win the pot which contains all the bets that the players have made in any one deal. A player makes a bet in hopes that he has the best hand, or to give the impression that he does. The top combination of five cards is the best hand and winner for that deal. The winner gets all the chips in the pot at the end of the round.
 
-Card Values/Scoring
+2.Card Values/Scoring
 
 Straight Flush – This is the highest possible hand when only the standard pack is used, and there are no wild cards. A straight flush consists of five cards of the same suit in sequence, such as 10, 9, 8, 7, 6 of hearts.
 
@@ -26,10 +28,10 @@ One Pair – This frequent combination contains just one pair with the other thr
 
 No Pair – This very common hand contains nothing. None of the five cards pair up, nor are all five cards of the same suit or consecutive in rank. When more than one player has no pair, the hands are rated by the highest card each hand contains, so that an ace-high hand beats a king-high hand, and so on.
 
-THE DEAL
+3.THE DEAL
 For this version of High Low Poker, each player receives two cards face down, and five cards are dealt face down to the center of the table.
 
-THE PLAY
+4.THE PLAY
 Once the cards are dealt, the person to the left of the dealer begins the first round of betting. Players have the option to check, bet, raise or fold after each deal.
 
 Check: A nominal bet; usually one that does not require any chip to be put in the pot.
